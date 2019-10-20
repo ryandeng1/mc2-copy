@@ -1,0 +1,22 @@
+# Params.set_params(int_precision=32,f=22,k=32)
+
+# a = s_fix()
+# b = s_fix()
+# l = s_fix_array.read_input(10, 0)
+
+# if (a > s_fix(2.0)):
+#     l[0] = b
+# else:
+#     l[1] = b
+
+x = 0
+a = 3
+
+if a == 3:
+    x = 1
+elif a == 1:
+    x = 2
+else:
+    x = 15
+
+print "Output = {}".format(x)
